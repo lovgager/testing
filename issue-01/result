@@ -51,7 +51,7 @@ Expecting:
     ---
     ...'
 **********************************************************************
-File "C:\Users\Oleg\PycharmProjects\pythonProject4\main.py", line 33, in main.encode
+File "C:\Users\Oleg\PycharmProjects\pythonProject4\morse.py", line 33, in main.encode
 Failed example:
     encode('SOS')
 Expected:
