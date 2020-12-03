@@ -1,0 +1,21 @@
+$ coverage run -m pytest -v main.py
+
+============================================================== test session starts ===============================================================
+platform win32 -- Python 3.8.5, pytest-6.1.2, py-1.9.0, pluggy-0.13.1 -- c:\users\oleg\anaconda3\envs\pythonproject4\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Oleg\PycharmProjects\pythonProject4
+collected 4 items                                                                                                                                 
+
+main.py::test_now PASSED                                                                                                                    [ 25%]
+main.py::test_mock PASSED                                                                                                                   [ 50%]
+main.py::test_dmy PASSED                                                                                                                    [ 75%]
+main.py::test_exception PASSED                                                                                                              [100%]
+
+=============================================================== 4 passed in 1.31s ================================================================
+
+
+$ coverage report -m
+
+Name      Stmts   Miss  Cover   Missing
+---------------------------------------
+main.py      35      0   100%
