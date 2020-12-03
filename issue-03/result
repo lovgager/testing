@@ -1,0 +1,11 @@
+$ python -m unittest -v main.py
+
+test_cities (main.TestEncoding) ... ok
+test_empty (main.TestEncoding) ... ok
+test_exception (main.TestEncoding) ... ok
+test_fruits (main.TestEncoding) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK
