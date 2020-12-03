@@ -1,1 +1,1 @@
-python -m pytest -v main.py
+python -m pytest -v one_hot_encoder.py
